@@ -2,7 +2,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Zekevious/TShock-Plugins?color=dark-green) ![Issues](https://img.shields.io/github/issues/Zekevious/TShock-Plugins)
 
-# Discord Command v1.0.0 (DiscordInvite.dll)
+# Discord Command v1.0.0 ([DiscordInvite.dll](https://github.com/Zekevious/TShock-Plugins/blob/main/DiscordInvite.dll))
 - Adds the ``/discord`` chat command.
 
 Config File: ``invite.config``<br>
