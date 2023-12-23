@@ -5,4 +5,5 @@
 - Adds the ``/discord`` chat command.
 
 Config File: ``invite.config``
+
 Player permission: ``discord.invite``
